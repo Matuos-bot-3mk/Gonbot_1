@@ -11,18 +11,18 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['201146121794', '🇵🇸𝐄𝐋𝐙𝟑𝐄𝐌 𝐆𝐎𝐍🇵🇸', true],
+  ['963936337142', '🇵🇸MIKEY - BOT🇵🇸', true],
 ];
 
-global.suittag = ['201146121794'];
-global.prems = ['201146121794'];
+global.suittag = [MIKEY - BOT'];
+global.prems = [963936337142'];
 
-global.packname = 'ستيكرات غون';
-global.author = '𝐆𝐎𝐍 𝐁𝐎𝐓';
-global.wm = '𝐄𝐋𝐙𝟑𝐄𝐌 𝐆𝐎𝐍 𝐁𝐎𝐓';
-global.titulowm = '𝐄𝐋𝐙𝟑𝐄𝐌 𝐆𝐎𝐍 𝐁𝐎𝐓';
-global.titulowm2 = `𝐄𝐋𝐙𝟑𝐄𝐌 𝐆𝐎𝐍 𝐁𝐎𝐓`
-global.igfg = '𝐄𝐋𝐙𝟑𝐄𝐌 𝐆𝐎𝐍 𝐁𝐎𝐓';
+global.packname = 'ستيكرات مايكي';
+global.author = 'MIKEY - BOT';
+global.wm = 'MIKEY - BOT';
+global.titulowm = 'MIKEY - BOT';
+global.titulowm2 = `MIKEY - BOT`
+global.igfg = 'MIKEY - BOT';
 global.wait = '*_[ ⏳ ] استنى شويه..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -47,16 +47,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝐄𝐋𝐙𝟑𝐄𝐌 𝐆𝐎𝐍 𝐁𝐎𝐓`;
-global.gt = '𝐄𝐋𝐙𝟑𝐄𝐌 𝐆𝐎𝐍 𝐁𝐎𝐓';
-global.mysticbot = '𝐄𝐋𝐙𝟑𝐄𝐌 𝐆𝐎𝐍 𝐁𝐎𝐓';
+global.wm2 = `${dia} ${fecha}\nMIKEY - BOT`;
+global.gt = 'MIKEY - BOT';
+global.mysticbot = 'MIKEY - BOT';
 global.channel = 'https://chat.whatsapp.com/GI3IFkhyEBJ9HBbkPQQhcW';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*_[ ⏳ ] استنى شويه..._*';
 global.waittt = '*_[ ⏳ ] استنى شويه..._*';
 global.waitttt = '*_[ ⏳ ] استنى شويه..._*';
-global.nomorown = '201146121794';
+global.nomorown = '963936337142';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
